@@ -1,0 +1,3 @@
+##  Relflection ##
+
+*the first function calculates the total average of the player's score inside the game, the second gives the status of the that score and what to give, and the final one shows the final results the player receive in that level. the program here really does simply things for developers to tinker in without going through a butt load of spaghetti code mama mia. i did use a bit of AI in this but only to fill things out. though, it did keep on suggesting me things like copying a block of code from a different py program which i decline off course. 
