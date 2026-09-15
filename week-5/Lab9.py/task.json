@@ -1,0 +1,17 @@
+[
+  {
+    "task": "finish homework",
+    "due": "tomorrow",
+    "is it done?": true
+  },
+  {
+    "task": "watch kamen rider zeztz",
+    "due": "until it's finished",
+    "is it done?": false
+  },
+  {
+    "task": "watch the new thomas show",
+    "due": "September 17",
+    "is it done?": false
+  }
+]
