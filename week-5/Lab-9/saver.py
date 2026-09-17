@@ -16,9 +16,9 @@ task = [
     }
 ,
     {
-    "task": "watch the new thomas show",
-    "due": "September 17",
-    "is it done?": False
+        "task": "watch the new thomas show",
+        "due": "September 17",
+        "is it done?": True
     }
 
 ]

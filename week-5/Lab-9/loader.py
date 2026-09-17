@@ -10,4 +10,5 @@ print("Loaded JSON file:", input_file.name)
 
 for task in task:
     status = "done" if task["is it done?"] else "not done"
+    print("\ntask:")
     print(task["task"], "-", task["due"], "-", status)

@@ -1,0 +1,3 @@
+### REFLECTION ###
+
+when comparing the two styles, they both do the same task but functions differently. i asked AI to explain to me how these two functions work and what their purposes are. in a sense, the simple dictionary list are easy to write for simple task lists that can be stored in a small json file while the class based function has more complexity at first and a small learning curve as well. this representation is better for more larger and complex programs as you need to add some validations and methods into it. 
