@@ -1,6 +1,6 @@
 #this task demonstrates the comparison between a dictionary list and an object instance of a class
 
-
+#this one is a simple dictionary list for ease of writing and storing data which makes it the easiest and simplest styles
 dictionary_list = [
     {
         "task": "watch kamen rider my-th",
@@ -9,6 +9,8 @@ dictionary_list = [
     }
 ]
 
+#this one however uses a class that can encapsulate the data and uses attributes to store and access the program. 
+#it's hard at first but it can be learned easily with a bit of practice and useful for larger programs.
 class Task:
     def __init__(self, task, due, is_it_done):
         self.task = task
