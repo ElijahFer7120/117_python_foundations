@@ -1,29 +1,14 @@
-def build_request(Hero_name):
-    return {
-        "endpoint": "/hero",
-        "query": {
-            "name": Hero_name
-        }
-    }
+import json
+from pathlib import Path
 
-def choose_display_values(respone_data):
-    current = respone_data["current"]
-    return {
-        "name": current["name"],
-        "power": current["power"],
-        "speed": current["speed"]
-    }
+input_file = Path(__file__).with_name("sonic.json")
 
-request_data = build_request("Sonic_the_Hedgehog")
-simulated_response = {
-    "current": {
-        "name": "Sonic_the_Hedgehog",
-        "power": 95, 
-        "speed": "343 m/s"
-    }
-}
+with input_file.open("r", encoding="utf-8") as file:
+    response_data = json.load(file)
+    
 
-display_values = choose_display_values(simulated_response)  
-print("request_endpoint: ", request_data["endpoint"])
-print("query_name:", request_data["query"]["name"])
-print("selected values: ", display_values)
+print("Name:", response_data["name"])
+print("Power:", response_data["stats"]["power"])
+print("Speed:", response_data["stats"]["speed"])
+print("Location:", response_data["location"][0]["zone"])
+print("Status:", response_data["location"][0]["status"])

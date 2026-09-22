@@ -1,0 +1,15 @@
+{
+    "name": "Sonic_the_Hedgehog",
+    "stats": {
+        "power": 95,
+        "speed": "343 m/s"
+    },
+
+    "location": [
+        {
+            "zone": "Green_Hill_Zone",
+            "status": "homeless"
+        }
+    ]
+
+}

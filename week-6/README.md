@@ -1,3 +1,3 @@
 ### REFLECTIONS ###
 
-the program asked what the values are within the string of codes, then it takes that data (which is sonic's stats) and and i wait for it to response. while i was waiting, the program scans the request i made and then using those selected values to pull out the expected results. 
+My program retrieved information about sonic's stats from the json file. it reads through the file it selected and retrieves the necessary information for the response and lays the right information out with the print string. I did get help from AI to scaffold with certain variable strings and laying the right information out, though it kept messing things up whenever i tried to make my json file as it gave me the wrong information to give to me. 
