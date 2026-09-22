@@ -24,6 +24,6 @@ simulated_response = {
 }
 
 display_values = choose_display_values(simulated_response)  
-print("request_endpoint:", request_data["endpoint"])
+print("request_endpoint: ", request_data["endpoint"])
 print("query_name:", request_data["query"]["name"])
-print("selected values", display_values)
+print("selected values: ", display_values)
