@@ -20,7 +20,7 @@ one user who uses the python console
 ## Inputs
 
 - users selecting questions
-- multiple choices
+- multiple choices function 
 
 ---
 
@@ -47,7 +47,7 @@ one user who uses the python console
 
 - Human and AI errors
 - using the wrong function
-- pc malfunctions
+- pc malfunctions and crashes
 
 ---
 
