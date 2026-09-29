@@ -2,18 +2,18 @@
 
 ## Project Name
 
-Kamen Rider Console quiz
+transformers Console quiz
 
 ---
 
 ## Purpose
 
-for people who are kamen rider fans or people who want to challenge their intellect for the series and possibly getting into the franchise
+for people who are transformers fans or people who want to challenge their intellect for the series and possibly getting into the franchise
 ---
 
 ## User
 
-one user who uses the python console
+one user who uses the python console as a transformers fan
 
 ---
 
@@ -40,6 +40,14 @@ one user who uses the python console
 ## Likely Structure
 
 - 5 question set up for this console apps
+- possible functions use: 
+    - display_question(question_number, question, choices) — prints a question and its  - - answer choices.
+    - get_answer() — asks the user to choose an answer and returns it.
+    - check_answer(user_answer, correct_answer) — returns True if the answer is correct, otherwise False.
+    - run_quiz(questions) — goes through the five questions and tracks the score.
+    - show_results(score, total_questions) — displays how many answers the user got right.
+    - show_watch_info() — tells the user where and how to watch the franchise.
+    - main() — starts the quiz and calls the other functions in order.
 
 ---
 
