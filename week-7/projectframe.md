@@ -2,7 +2,7 @@
 
 ## Project Name
 
-transformers Console quiz
+Transformers Console quiz
 
 ---
 
