@@ -1,0 +1,27 @@
+[
+    {
+        "question": "who was the first transformers toy made?",
+        "choices": ["Optimus Prime", "Megatron", "Sunstreaker", "Sideswipe"],
+        "answer": "Sunstreaker"
+    },
+    {
+        "question": "which company created the transformers toy line?",
+        "choices": ["Hasbro", "Mattel", "LEGO", "Bandai"],
+        "answer": "Hasbro"
+    },
+    { 
+        "question": "what year was the first transformers toy released?",
+        "choices": ["1980", "1984", "1986", "1990"],
+        "answer": "1984"
+    },
+    {
+        "question": "before transformers, there was a toy line called?",
+        "choices": ["Diaclone", "Microman", "Gundam", "Super Sentai"],
+        "answer": "Diaclone"
+    },
+    {
+        "question": "how many times optimus prime died in the franchise?",
+        "choices": ["100", "25", "30", "10"],
+        "answer": "25"
+    }
+]
