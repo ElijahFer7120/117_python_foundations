@@ -14,7 +14,7 @@
 
 ## 3. How It Works
 
-* five question quiz
+* seven question quiz
 * multiple choice letters (a/b/c/d)
 * answer the question correctly 
 * shows total score
