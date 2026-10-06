@@ -29,7 +29,9 @@ def run_quiz(questions):
         else:
             print(f"Wrong! The correct answer is {q['answer']}.")
         print()
+    
     print(f"Your final score is {score}/{len(questions)}")
+    
     print("\nWould you like to play again? (yes/no)")
     play_again = input().strip().lower()
     if play_again in ("yes", "y", "YES", "Yes", "Y", "ye", "Ye", "YE"):
