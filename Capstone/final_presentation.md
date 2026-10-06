@@ -52,4 +52,4 @@
 
 ## 7. What I Would Improve Next
 
-* possible refactoring or more questions 
+* possible refactoring, more questions, or possible new feature
