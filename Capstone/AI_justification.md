@@ -12,7 +12,6 @@ AI helped by:
 
 * creating a tutorial on how to help me create the code
 * drafting a early version of the code
-* 
 
 ---
 
@@ -26,7 +25,6 @@ I changed:
 I rejected:
 
 * a class-based rewrite that made the project harder to explain
-* extra features that would have pushed the scope too far
 * rejecting certain ai autofill
 
 ---
@@ -39,7 +37,7 @@ I decided:
 * the feature scope
 * the final structure
 * what behavior needed testing
-* what code to keep and what to revise
+* what code to keep and what to add and revise
 
 ---
 

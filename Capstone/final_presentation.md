@@ -3,14 +3,12 @@
 ## 1. What I Built
 
 * transformers console quiz
-* to test out how cultured they are in the transformers franchise 
 
 ---
 
 ## 2. Why I Chose It
 
-* to figure out much knowledge they have in the franchise
-* 
+* to test out how much knowledge a user have in the franchise
 
 ---
 
@@ -18,14 +16,12 @@
 
 * five question quiz
 * multiple choice letters (a/b/c/d)
-* whether the answer was correct or not 
-* function based code structure 
+* answer the question correctly 
+* shows total score
 
 ---
 
 ## 4. What Course Concepts It Uses
-
-Examples:
 
 * variables
 * conditionals
@@ -56,4 +52,4 @@ Examples:
 
 ## 7. What I Would Improve Next
 
-* possible refactoring 
+* possible refactoring or more questions 
