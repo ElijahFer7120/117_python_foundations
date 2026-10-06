@@ -31,3 +31,4 @@
 - created a database for the questions and answers
 - include an import path for the program to access the code
 - improving upon the play again input to have more specific when answering yes and no 
+- added more questions to the database
