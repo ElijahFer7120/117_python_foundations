@@ -23,5 +23,15 @@
         "question": "how many times optimus prime died in the franchise?",
         "choices": ["100", "25", "30", "10"],
         "answer": "25"
+    },
+    {
+        "question": "which character inspired the iconic decepticon emblem?",
+        "choices": ["Megatron", "The Fallen", "Soundwave", "MotorMaster"],
+        "answer": "Soundwave"
+    },
+    {
+        "question": "which character inspired the iconic autobot emblem?",
+        "choices": ["Huffer", "Prowl", "Ironhide", "the ark"],
+        "answer": "Prowl"
     }
 ]
