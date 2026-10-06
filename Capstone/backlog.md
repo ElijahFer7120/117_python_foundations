@@ -12,7 +12,7 @@
 - then run "py CAPSTONE.py" in the console terminal
 
 ## Features
-- five questions 
+- seven questions 
 - loading data from the database
 - displays questions one by one
 - accepts answers in any capitalization
