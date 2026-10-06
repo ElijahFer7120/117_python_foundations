@@ -25,6 +25,7 @@
 ## OCT/1/2025
 - added A,B,C,D instead of A,B,C which the ai suggested
 - fixing capitalization issues inside of the input
+- Originally a kamen rider quiz but no changed into a transformers quiz. 
 
 ## OCT/5/2025
 - added a new loop variable to restart the quiz again
