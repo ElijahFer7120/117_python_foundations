@@ -38,7 +38,7 @@
 
 * expected vs actual checks
 * sample tests
-* edge cases
+* fixed bugs
 
 ---
 
