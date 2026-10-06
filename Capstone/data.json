@@ -31,7 +31,7 @@
     },
     {
         "question": "which character inspired the iconic autobot emblem?",
-        "choices": ["Huffer", "Prowl", "Ironhide", "the ark"],
+        "choices": ["Huffer", "Prowl", "Ironhide", "The Ark"],
         "answer": "Prowl"
     }
 ]
