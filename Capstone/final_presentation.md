@@ -9,6 +9,7 @@
 ## 2. Why I Chose It
 
 * to test out how much knowledge a user have in the franchise
+* thought of doing something simple and sweet for this program. 
 
 ---
 

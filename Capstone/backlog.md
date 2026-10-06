@@ -7,9 +7,9 @@
 ---
 
 ## How to run the program 
-- got to your console
+- got to your console terminal 
 - get the python program
-- then run "py CAPSTONE.py" in the console to run
+- then run "py CAPSTONE.py" in the console terminal
 
 ## Features
 - five questions 
